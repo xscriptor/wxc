@@ -6,6 +6,105 @@
 
 **Note**: This theme is designed for dark mode environments and features a rich purple base with soft golden text accents.
 
+# ✦ Required Windhawk Mods for Full Effect
+To achieve the full implementation of the xdark theme, make sure to have your windows on dark theme and install and configure the following Windhawk mods in addition to Taskbar Styler:
+
+- Taskbar Clock Customization – for styling the system clock.
+
+<details>
+<summary>Click to expand JSON content</summary>
+
+```json
+{
+  "ShowSeconds": 1,
+  "TimeFormat": "HH':'mm",
+  "DateFormat": "dd'/'MM'/'yyyy",
+  "WeekdayFormat": "",
+  "TopLine": "",
+  "MiddleLine": "",
+  "BottomLine": "%date %time%",
+  "TooltipLine": "%web1_full%",
+  "Width": 180,
+  "Height": 60,
+  "TextSpacing": 0,
+  "TimeStyle.Visible": 1,
+  "TimeStyle.TextColor": "#e7ab79",
+  "TimeStyle.TextAlignment": "Center",
+  "TimeStyle.FontSize": 12,
+  "TimeStyle.FontFamily": "JetBrainsMono NF",
+  "TimeStyle.FontWeight": "ExtraLight",
+  "TimeStyle.FontStyle": "",
+  "TimeStyle.FontStretch": "",
+  "TimeStyle.CharacterSpacing": 0,
+  "DateStyle.TextColor": "#e7ab79",
+  "DateStyle.TextAlignment": "Center",
+  "DateStyle.FontSize": 12,
+  "DateStyle.FontFamily": "Times New Roman",
+  "DateStyle.FontWeight": "Light",
+  "DateStyle.FontStyle": "Normal",
+  "DateStyle.FontStretch": "SemiCondensed",
+  "DateStyle.CharacterSpacing": 1,
+  "oldTaskbarOnWin11": 0,
+  "MaxWidth": 0,
+  "TimeStyle.Hidden": 1,
+  "DateStyle.Hidden": 0
+}
+
+```
+
+</details>
+
+---
+
+- Taskbar Height and Icon Size – to adjust the proportions and padding of taskbar items.
+
+<details>
+<summary>Click to expand JSON content</summary>
+
+```json
+
+{
+  "IconSize": 15,
+  "TaskbarHeight": 35,
+  "TaskbarButtonWidth": 30
+}
+
+```
+
+</details>
+
+---
+
+- Taskbar Labels for Windows 11 – to enable visible labels next to app icons.
+
+<details>
+<summary>Click to expand JSON content</summary>
+
+```json
+
+{
+  "taskbarItemWidth": 60,
+  "minimumTaskbarItemWidth": 50,
+  "maximumTaskbarItemWidth": 120,
+  "runningIndicatorStyle": "centerFixed",
+  "progressIndicatorStyle": "sameAsRunningIndicatorStyle",
+  "fontSize": 12,
+  "leftAndRightPaddingSize": 8,
+  "spaceBetweenIconAndLabel": 8,
+  "labelForSingleItem": "%name%",
+  "labelForMultipleItems": "[%amount%] %name%",
+  "mode": "labelsWithCombining",
+  "excludedPrograms[0]": "excluded1.exe",
+  "alwaysShowThumbnailLabels": 0,
+  "fontFamily": "",
+  "runningIndicatorHeight": 0,
+  "runningIndicatorVerticalOffset": 0
+}
+
+```
+
+</details>
+
 ---
 
 # Overview
