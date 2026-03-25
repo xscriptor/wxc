@@ -13,3 +13,6 @@
 
 - Windows taskbar customization:
     - **[Taskbar](./taskbar/README.md)**: Themes used in the taskbar using **[Windhawk](https://github.com/ramensoftware/windhawk)**.
+
+- Terminal - Powershell:
+    - **[Powershell](./powershell/README..md)** To see some previews about the Windows terminal customization. To apply the customizations follow this link: **[XTerminal-Repo-Powershell](https://github.com/xscriptor/terminal/tree/main/powershell)**
