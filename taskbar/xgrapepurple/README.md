@@ -4,10 +4,10 @@
 
 ![Demonstration](files/xgrapepurple.png)
 
-**Note**: This theme is designed for dark mode environments and features a rich purple base with soft golden text accents.
+**Note**: This theme is designed for any environments and features a rich purple base with soft golden text accents.
 
-# ✦ Required Windhawk Mods for Full Effect
-To achieve the full implementation of the xdark theme, make sure to have your windows on dark theme and install and configure the following Windhawk mods in addition to Taskbar Styler:
+# Required Windhawk Mods for Full Effect
+To achieve the full implementation of the xgrapepurple theme, make sure to have your windows on dark theme and install and configure the following Windhawk mods in addition to Taskbar Styler:
 
 - Taskbar Clock Customization – for styling the system clock.
 
@@ -22,7 +22,7 @@ To achieve the full implementation of the xdark theme, make sure to have your wi
   "WeekdayFormat": "",
   "TopLine": "",
   "MiddleLine": "",
-  "BottomLine": "%date %time%",
+  "BottomLine": "%date% %time%",
   "TooltipLine": "%web1_full%",
   "Width": 180,
   "Height": 60,
@@ -30,7 +30,7 @@ To achieve the full implementation of the xdark theme, make sure to have your wi
   "TimeStyle.Visible": 1,
   "TimeStyle.TextColor": "#e7ab79",
   "TimeStyle.TextAlignment": "Center",
-  "TimeStyle.FontSize": 12,
+  "TimeStyle.FontSize": 11,
   "TimeStyle.FontFamily": "JetBrainsMono NF",
   "TimeStyle.FontWeight": "ExtraLight",
   "TimeStyle.FontStyle": "",
@@ -38,7 +38,7 @@ To achieve the full implementation of the xdark theme, make sure to have your wi
   "TimeStyle.CharacterSpacing": 0,
   "DateStyle.TextColor": "#e7ab79",
   "DateStyle.TextAlignment": "Center",
-  "DateStyle.FontSize": 12,
+  "DateStyle.FontSize": 11,
   "DateStyle.FontFamily": "Times New Roman",
   "DateStyle.FontWeight": "Light",
   "DateStyle.FontStyle": "Normal",

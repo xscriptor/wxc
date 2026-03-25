@@ -1,90 +1,15 @@
 
-# Windhawk Windows 11 Taskbar Styler Themes
+<h1 align="center">Windows X Customization</h1>
 
-This repository contains a collection of custom taskbar styles for **Windhawk**, designed to enhance the appearance of the Windows taskbar using acrylic, color, and minimal design aesthetics. Each JSON file in this repo corresponds to a unique theme that modifies the look and feel of the taskbar.
+> Under active development
 
-## Included Styles
+<div align="center">
+<p>Customizations and utilities to improve accesibility and productivity in your own system</p>
 
+![windows](https://xscriptor.github.io/badges/os/windows.svg) ![mit](https://xscriptor.github.io/badges/licenses/mit.svg) ![shell](https://xscriptor.github.io/badges/languages/shell.svg) ![powershell](https://xscriptor.github.io/badges/languages/powershell.svg)
+</div>
 
+<h2 align="center">Tree</h2>
 
-### [xdark](xdark/README.md)
-A dark, minimalistic theme for sleek environments.
-
-![xdark](xdark/files/xdark.png)
-
----
-
-### [xtranslucid](xtranslucid/README.md)
-A translucent acrylic theme with centered icons and a subtle gold border for a clean, modern look.
-
-![xtranslucid](xtranslucid/files/xtranslucid.png)
-
----
-
-### [xtranslucid-light](xtranslucid-light/README.md)
-A translucent acrylic theme with centered icons and a subtle gold border for a clean, modern look, light mode.
-
-![xtranslucid](xtranslucid-light/files/xtranslucid-light.png)
-
----
-
-### [xblackgold](xblackgold/README.md)
-A dark, minimalistic theme for sleek environments.
-
-![xdark](/xblackgold/files/xblackgold.png)
-
----
-### [xdeepocean](xdeepocean/README.md)
-Inspired by deep ocean tones, offering a cool, calm appearance.
-
-![xdeepocean](xdeepocean/files/xdeepocean.png)
-
----
-
-### [xgold](xgold/README.md)
-A bold and shiny golden theme for a luxurious look.
-
-![xgold](xgold/files/xgold.png)
-
----
-
-### [xgrapepurple](xgrapepurple/README.md)
-A modern purple-toned style with vibrant flair.
-
-![xgrapepurple](xgrapepurple/files/xgrapepurple.png)
-
----
-
-### [xicegray](xicegray/README.md)
-A clean and soft icy gray theme for clarity and neutrality.
-
-![xicegray](xicegray/files/xicegray.png)
-
----
-
-## Features
-
-- Custom corner radius and padding
-- Transparent and acrylic backgrounds
-- Theme-aware foreground (text and icons)
-- Focus on readability and elegance
-- Lightweight modifications that respect system UX
-
-## How to Use
-
-1. Make sure [Windhawk](https://windhawk.net/) is installed on your system.
-2. Copy any of the `.json` files into Windhawk's **Notification Center Styler** or **Taskbar Styler** module.
-3. Apply the style from Windhawk's configuration interface.
-4. Restart Explorer (if necessary) for the changes to take full effect.
-
-> 💡 **Tip**: Use `xtranslucid.json` if you want a modern, minimal, semi-transparent look with a clean border around centered icons only.
-
-## License
-
-This project is released under the MIT License. Feel free to modify, share, or integrate these styles into your own setups.
-
-© 2025 xscriptorcode (xscriptor) — Released under the MIT License
-
----
-
-Made with ❤️ for personalization fans.
+- Windows taskbar customization:
+    - **[Taskbar](./taskbar/README.md)**: Themes used in the taskbar using **[Windhawk](https://github.com/ramensoftware/windhawk)**.
