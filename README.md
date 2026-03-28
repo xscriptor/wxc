@@ -9,6 +9,14 @@
 ![windows](https://xscriptor.github.io/badges/os/windows.svg) ![mit](https://xscriptor.github.io/badges/licenses/mit.svg) ![shell](https://xscriptor.github.io/badges/languages/shell.svg) ![powershell](https://xscriptor.github.io/badges/languages/powershell.svg) ![vscode](https://xscriptor.github.io/badges/editors/vscode.svg)
 </div>
 
+<p align="right"><em>Quick question</em></p>
+
+<div align="center">
+  <img src="./assets/images/screenshots/preview1.png" alt="preview" width="80%" />
+</div>
+
+<p align="left"><em>Do you want to improve the appearance of your Windows and make it more accessible?<em></p>
+
 <h2 align="center">Tree</h2>
 
 - Windows taskbar customization:
